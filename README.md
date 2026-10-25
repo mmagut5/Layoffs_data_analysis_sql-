@@ -1,4 +1,4 @@
-# 🗄️ MySQL Data Cleaning & Analysis
+#  MySQL Data Cleaning & Analysis
 
 A collection of MySQL projects showing the full SQL workflow: cleaning raw data, exploring it for insights, and practising core to advanced SQL concepts.
 
